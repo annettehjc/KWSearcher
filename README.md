@@ -1,7 +1,7 @@
 # Key Word Searcher
 A Java software provides a graphical user interface to search and visualise keywords in local documents and online web pages based on their word form, lemma, or [POS tag](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html).
 
-Authors: Hyunjoo Cho ([@annettehjc](https://github.com/annettehjc)), Lina M. Longar ([@linalongar](https://github.com/linalongar)), Nikita L. Beklemishev ([@lilovyjgrib](https://github.com/lilovyjgrib)), Szymon T. Kossowski ([szymonkossowski](https://github.com/szymonkossowski))
+Authors: Hyunjoo Cho ([@annettehjc](https://github.com/annettehjc)), Lina M. Longar ([@linalongar](https://github.com/linalongar)), Nikita L. Beklemishev ([@lilovyjgrib](https://github.com/lilovyjgrib)), Szymon T. Kossowski ([@szymonkossowski](https://github.com/szymonkossowski))
 
 ### Instructions
 
