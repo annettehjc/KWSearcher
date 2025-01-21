@@ -24,7 +24,7 @@ Authors: Hyunjoo Cho ([@annettehjc](https://github.com/annettehjc)), Lina M. Lon
 - **JSoup** library (web scraping).
 - **DOM Parser** (exporting to XML).
 
-
-**Note**
+---
+**Note**    
 The source code of this project is not yet publicly available because parts of this program are a graded task for
 students enrolled in the Computational Linguistics program @ University of Tübingen.
